@@ -1,0 +1,910 @@
+[    
+    {
+        "name": "preemie/boys",
+        "displayName": "Preemie Boys",
+        "products": [
+            {
+                "name": "mittens",
+                "picture": null,
+                "path": "/mittens",
+                "etsyListingId": null,
+                "etsyListingName": "preemie-boys-mittens",
+                "items": [
+                    {
+                        "name": "mitten 1",
+                        "picture": null,
+                        "etsyVariationId": null
+                    }
+                ]
+            },
+            {
+                "name": "hats",
+                "picture": null,
+                "path": "/hats",
+                "etsyListingId": null,
+                "etsyListingName": "preemie-boys-hats",
+                "items": [
+                    {
+                        "name": "hat1",
+                        "picture": null,
+                        "etsyVariationId": null
+                    }
+                ]
+            },
+            {
+                "name": "sweaters/cardigans",
+                "picture": null,
+                "path": "/sweaters-cardigans",
+                "etsyListingId": null,
+                "etsyListingName": "preemie-boys-sweater/cardigan",
+                "items": [
+                    {
+                        "name": "sweater 1",
+                        "picture": null,
+                        "etsyVariationId": null
+                    },
+                    {
+                        "name": "cardigan 1",
+                        "picture": null,
+                        "etsyVariationId": null
+                    }
+                ]
+            },
+            {
+                "name": "booties",
+                "picture": null,
+                "path": "/booties",
+                "etsyListingId": null,
+                "etsyListingName": "preemie-boys-booties",
+                "items": [
+                    {
+                        "name": "booties 1",
+                        "picture": null,
+                        "etsyVariationId": null
+                    }
+                ]
+            },
+            {
+                "name": "pants/shorts",
+                "picture": null,
+                "path": "/pants-shorts",
+                "etsyListingId": null,
+                "etsyListingName": "preemie-boys-pants/shorts",
+                "items": [
+                    {
+                        "name": "pants 1",
+                        "picture": null,
+                        "etsyVariationId": null
+                    },
+                    {
+                        "name": "shorts 1",
+                        "picture": null,
+                        "etsyVariationId": null
+                    }
+                ]
+            },
+            {
+                "name": "bundles",
+                "picture": null,
+                "path": "/bundles",
+                "etsyListingId": null,
+                "etsyListingName": "preemie-boys-bundles",
+                "items": [
+                    {
+                        "name": "bundle 1",
+                        "picture": null,
+                        "etsyVariationId": null
+                    },
+                    {
+                        "name": "bundle 2",
+                        "picture": null,
+                        "etsyVariationId": null
+                    }
+                ]
+            },
+            {
+                "name": "onesies/bodysuites",
+                "picture": null,
+                "path": "/onesies-bodysuites",
+                "etsyListingId": null,
+                "etsyListingName": "preemie-boys-onesies/bodysuites",
+                "items": [
+                    {
+                        "name": "onesie 1",
+                        "picture": null,
+                        "etsyVariationId": null
+                    },
+                    {
+                        "name": "bodysuite 1",
+                        "picture": null,
+                        "etsyVariationId": null
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "preemie/girls",
+        "displayName": "Preemie Girls",
+        "products": [
+            {
+                "name": "mittens",
+                "picture": null,
+                "path":"/mittens",
+                "etsyListingId": null,
+                "etsyListingName": "preemie-girls-mittens",
+                "items": [
+                    {
+                        "name": "mitten 1",
+                        "picture": null,
+                        "etsyVariationId": null
+                    },
+                    {
+                        "name": "mitten 2",
+                        "picture": null,
+                        "etsyVariationId": null
+                    }
+                ]
+            },
+            {
+                "name": "hats",
+                "picture": null,
+                "path":"/hats",
+                "etsyListingId": null,
+                "etsyListingName": "preemie-girls-hats",
+                "items": [
+                    {
+                        "name": "hat 1",
+                        "picture": null,
+                        "etsyVariationId": null
+                    }
+                ]
+            },
+            {
+                "name": "sweaters/cardigans",
+                "picture": null,
+                "path": "/sweaters-cardigans",
+                "etsyListingId": null,
+                "etsyListingName": "preemie-girls-sweaters/cardigans",
+                "items": [
+                    {
+                        "name": "sweater 1",
+                        "picture": null,
+                        "etsyVariationId": null
+                    },
+                    {
+                        "name": "cardigan 1",
+                        "picture": null,
+                        "etsyVariationId": null
+                    }
+                ]
+            },
+            {
+                "name": "booties",
+                "picture": null,
+                "path": "/booties",
+                "etsyListingId": null,
+                "etsyListingName": "preemie-girls-booties",
+                "items": [
+                    {
+                        "name": "booties 1",
+                        "picture": null,
+                        "etsyVariationId": null
+                    }
+                ]
+            },
+            {
+                "name": "pants/skirts/shorts",
+                "picture": null,
+                "path": "/pants-skirts-shorts",
+                "etsyListingId": null,
+                "etsyListingName": "preemie-girls-pants/skirts/shorts",
+                "items": [
+                    {
+                        "name": "pants 1",
+                        "picture": null,
+                        "etsyVariationId": null
+                    },
+                    {
+                        "name": "skirt 1",
+                        "picture": null,
+                        "etsyVariationId": null
+                    },
+                    {
+                        "name": "shorts 1",
+                        "picture": null,
+                        "etsyVariationId": null
+                    }
+                ]
+            },
+            {
+                "name": "dresses",
+                "picture": null,
+                "path": "/dresses",
+                "etsyListingId": null,
+                "etsyListingName": "preemie-girls-dresses",
+                "items": [
+                    {
+                        "name": "dress 1",
+                        "picture": null,
+                        "etsyVariationId": null
+                    }
+                ]
+            },
+            {
+                "name": "bundles",
+                "picture": null,
+                "path": "/bundles",
+                "etsyListingId": null,
+                "etsyListingName": "preemie-girls-bundles",
+                "items": [
+                    {
+                        "name": "bundle 1",
+                        "picture": null,
+                        "etsyVariationId": null
+                    }
+                ]
+            }, 
+            {
+                "name": "onesies/bodysuites",
+                "picture": null,
+                "path": "/onesies-bodysuites",
+                "etsyListingId": null,
+                "etsyListingName": "preemie-girls-onesies/bodysuites",
+                "items": [
+                    {
+                        "name": "onesie 1",
+                        "picture": null,
+                        "etsyVariationId": null
+                    },
+                    {
+                        "name": "bodysuite 1",
+                        "picture": null,
+                        "etsyVariationId": null
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "preemie/neutral",
+        "displayName": "Preemie Neutral",
+        "products":[
+            {
+                "name": "mittens",
+                "path": "/mittens",
+                "picture": null,
+                "etsyListingId": null,
+                "etsyListingName": "preemie-neutral-mittens",
+                "items": [
+                    {
+                        "name": "mitten 1",
+                        "picture": null,
+                        "etsyVariationId": null
+                    }
+                ]
+            },
+            {
+                "name": "hats",
+                "picture": null,
+                "path": "/hats",
+                "etsyListingId": null,
+                "etsyListingName": "preemie-neutral-hats",
+                "items": [
+                    {
+                        "name": "hat 1",
+                        "picture": null,
+                        "etsyVariationId": null
+                    }
+                ]
+            },
+            {
+                "name": "sweaters/cardigans",
+                "picture": null,
+                "path": "/sweaters-cardigans",
+                "etsyListingId": null,
+                "etsyListingName": "preemie-neutral-sweaters/cardigans",
+                "items": [
+                    {
+                        "name": "sweater 1",
+                        "picture": null,
+                        "etsyVariationId": null
+                    },
+                    {
+                        "name": "cardigan 1",
+                        "picture": null,
+                        "etsyVariationId": null
+                    }
+                ]
+            },
+            {
+                "name": "booties",
+                "picture": null,
+                "path": "/booties",
+                "etsyListingId": null,
+                "etsyListingName": "preemie-neutral-booties",
+                "items": [
+                    {
+                        "name": "booties 1",
+                        "picture": null,
+                        "etsyVariationId": null
+                    }
+                ]
+            },
+            {
+                "name": "pants/shorts",
+                "picture": null,
+                "path": "/pants-shorts",
+                "etsyListingId": null,
+                "etsyListingName": "preemie-neutral-pants/shorts",
+                "items": [
+                    {
+                        "name": "pants 1",
+                        "picture": null,
+                        "etsyVariationId": null
+                    },
+                    {
+                        "name": "shorts 1",
+                        "picture": null,
+                        "etsyVariationId": null
+                    }
+                ]
+            },
+            {
+                "name": "bundles",
+                "picture": null,
+                "path": "/bundles",
+                "etsyListingId": null,
+                "etsyListingName": "preemie-neutral-bundles",
+                "items": [
+                    {
+                        "name": "bundle 1",
+                        "picture": null,
+                        "etsyVariationId": null
+                    }
+                ]
+            },
+            {
+                "name": "onesies/bodysuites",
+                "picture": null,
+                "path": "/onesies-bodysuites",
+                "etsyListingId": null,
+                "etsyListingName": "preemie-neutral-onesies/bodysuites",
+                "items": [
+                    {
+                        "name": "onesie 1",
+                        "picture": null,
+                        "etsyVariationId": null
+                    },
+                    {
+                        "name": "bodysuite 1",
+                        "picture": null,
+                        "etsyVariationId": null
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "girls",
+        "displayName": "Girls",
+        "products":[
+            {
+                "name": "mittens",
+                "picture": null,
+                "path": "/mittens",
+                "etsyListingId": null,
+                "etsyListingName": "girls-mittens",
+                "items": [
+                    {
+                        "name": "mitten 1",
+                        "picture": null,
+                        "etsyVariationId": null
+                    }
+                ]
+            },
+            {
+                "name": "hats",
+                "picture": null,
+                "path": "/hats",
+                "etsyListingId": null,
+                "etsyListingName": "girls-hats",
+                "items": [
+                    {
+                        "name": "hat 1",
+                        "picture": null,
+                        "etsyVariationId": null
+                    }
+                ]
+            }, 
+            {
+                "name": "scarves",
+                "picture": null,
+                "path": "/scarves",
+                "etsyListingId": null,
+                "etsyListingName": "girls-scarves",
+                "items": [
+                    {
+                        "name": "scarf 1",
+                        "picture": null,
+                        "etsyVariationId": null
+                    }
+                ]
+            },
+            {
+                "name": "sweaters/cardigans",
+                "picture": null,
+                "path": "/sweaters-cardigans",
+                "etsyListingId": null,
+                "etsyListingName": "girls-sweaters/cardigans",
+                "items": [
+                    {
+                        "name": "sweater 1",
+                        "picture": null,
+                        "etsyVariationId": null
+                    },
+                    {
+                        "name": "cardigan 1",
+                        "picture": null,
+                        "etsyVariationId": null
+                    }
+                ]
+            },
+            {
+                "name": "booties",
+                "picture": null,
+                "path": "/booties",
+                "etsyListingId": null,
+                "etsyListingName": "girls-booties",
+                "items": [
+                    {
+                        "name": "booties 1",
+                        "picture": null,
+                        "etsyVariationId": null
+                    }
+                ]
+            },
+            {
+                "name": "pants/skirts/shorts",
+                "picture": null,
+                "path": "/pants-skirts-shorts",
+                "etsyListingId": null,
+                "etsyListingName": "girls-pants/skirts/shorts",
+                "items": [
+                    {
+                        "name": "pants 1",
+                        "picture": null,
+                        "etsyVariationId": null
+                    },
+                    {
+                        "name": "skirt 1",
+                        "picture": null,
+                        "etsyVariationId": null
+                    },
+                    {
+                        "name": "shorts 1",
+                        "picture": null,
+                        "etsyVariationId": null
+                    }
+                ]
+            },
+            {
+                "name": "dresses",
+                "picture": null,
+                "path": "/dresses",
+                "etsyListingId": null,
+                "etsyListingName": "girls-dresses",
+                "items": [
+                    {
+                        "name": "dress 1",
+                        "picture": null,
+                        "etsyVariationId": null
+                    }
+                ]
+            },
+            {
+                "name": "bundles",
+                "picture": null,
+                "path":"/bundles",
+                "etsyListingId": null,
+                "etsyListingName": "girls-bundles",
+                "items": [
+                    {
+                        "name": "bundle 1",
+                        "picture": null,
+                        "etsyVariationId": null
+                    }
+                ]
+            }, 
+            {
+                "name": "onesies/bodysuites",
+                "picture": null,
+                "path": "/onesies-bodysuites",
+                "etsyListingId": null,
+                "etsyListingName": "girls-onesies/bodsuites",
+                "items": [
+                    {
+                        "name": "onesie 1",
+                        "picture": null,
+                        "etsyVariationId": null
+                    },
+                    {
+                        "name": "bodysuite 1",
+                        "picture": null,
+                        "etsyVariationId": null
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "boys",
+        "displayName": "Boys",
+        "products":[
+            {
+                "name": "mittens",
+                "picture": null,
+                "path": "/mittens",
+                "etsyListingId": null,
+                "etsyListingName": "boys-mittens",
+                "items": [
+                    {
+                        "name": "mitten 1",
+                        "picture": null,
+                        "etsyVariationId": null
+                    }
+                ]
+            },
+            {
+                "name": "hats",
+                "picture": null,
+                "path": "/hats",
+                "etsyListingId": null,
+                "etsyListingName": "boys-hats",
+                "items": [
+                    {
+                        "name": "hat 1",
+                        "picture": null,
+                        "etsyVariationId": null
+                    }
+                ]
+            },
+            {
+                "name": "scarves",
+                "picture": null,
+                "path": "/scarves",
+                "etsyListingId": null,
+                "etsyListingName": "boys-scarves",
+                "items": [
+                    {
+                        "name": "scarf 1",
+                        "picture": null,
+                        "etsyVariationId": null
+                    }
+                ]
+            },
+            {
+                "name": "sweaters/cardigans",
+                "picture": null,
+                "path": "/sweaters-cardigans",
+                "etsyListingId": null,
+                "etsyListingName": "boys-sweaters/cardigans",
+                "items": [
+                    {
+                        "name": "sweater 1",
+                        "picture": null,
+                        "etsyVariationId": null
+                    },
+                    {
+                        "name": "cardigan 1",
+                        "picture": null,
+                        "etsyVariationId": null
+                    }
+                ]
+            },
+            {
+                "name": "booties",
+                "picture": null,
+                "path": "/booties",
+                "etsyListingId": null,
+                "etsyListingName": "boys-booties",
+                "items": [
+                    {
+                        "name": "booties 1",
+                        "picture": null,
+                        "etsyVariationId": null
+                    }
+                ]
+            },
+            {
+                "name": "pants/shorts",
+                "picture": null,
+                "path": "/pants-shorts",
+                "etsyListingId": null,
+                "etsyListingName": "boys-pants/shorts",
+                "items": [
+                    {
+                        "name": "pants 1",
+                        "picture": null,
+                        "etsyVariationId": null
+                    },
+                    {
+                        "name": "shorts 1",
+                        "picture": null,
+                        "etsyVariationId": null
+                    }
+                ]
+            },
+            {
+                "name": "bundles",
+                "picture": null,
+                "path": "/bundles",
+                "etsyListingId": null,
+                "etsyListingName": "boys-bundles",
+                "items": [
+                    {
+                        "name": "bundle 1",
+                        "picture": null,
+                        "etsyVariationId": null
+                    }
+                ]
+            },
+            {
+                "name": "onesies/bodysuites",
+                "picture": null,
+                "path": "/onesies-bodysuites",
+                "etsyListingId": null,
+                "etsyListingName": "boys-onesies/bodysuites",
+                "items": [
+                    {
+                        "name": "onesie 1",
+                        "picture": null,
+                        "etsyVariationId": null
+                    },
+                    {
+                        "name": "bodysuite 1",
+                        "picture": null,
+                        "etsyVariationId": null
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "neutral",
+        "displayName": "Neutral",
+        "products": [
+            {
+                "name": "mittens",
+                "picture": null,
+                "path": "/mittens",
+                "etsyListingId": null,
+                "etsyListingName": "neutral-mittens",
+                "items": [
+                    {
+                        "name": "mitten 1",
+                        "picture": null,
+                        "etsyVariationId": null
+                    }
+                ]
+            },
+            {
+                "name": "hats",
+                "picture": null,
+                "path": "/hats",
+                "etsyListingId": null,
+                "etsyListingName": "neutral-hats",
+                "items": [
+                    {
+                        "name": "hat 1",
+                        "picture": null,
+                        "etsyVariationId": null
+                    }
+                ]
+            },
+            {
+                "name": "scarves",
+                "picture": null,
+                "path": "/scarves",
+                "etsyListingId": null,
+                "etsyListingName": "neutral-scarves",
+                "items": [
+                    {
+                        "name": "scarf 1",
+                        "picture": null,
+                        "etsyVariationId": null
+                    }
+                ]
+            },
+            {
+                "name": "sweaters/cardigans",
+                "picture": null,
+                "path": "/sweaters-cardigans",
+                "etsyListingId": null,
+                "etsyListingName": "neutral-sweaters/cardigans",
+                "items": [
+                    {
+                        "name": "sweater 1",
+                        "picture": null,
+                        "etsyVariationId": null
+                    },
+                    {
+                        "name": "cardigan 1",
+                        "picture": null,
+                        "etsyVariationId": null
+                    }
+                ]
+            },
+            {
+                "name": "booties",
+                "picture": null,
+                "path": "/booties",
+                "etsyListingId": null,
+                "etsyListingName": "neutral-booties",
+                "items": [
+                    {
+                        "name": "booties 1",
+                        "picture": null,
+                        "etsyVariationId": null
+                    }
+                ]
+            },
+            {
+                "name": "pants/shorts",
+                "picture": null,
+                "path": "/pants-shorts",
+                "etsyListingId": null,
+                "etsyListingName": "neutral-pants/shorts",
+                "items": [
+                    {
+                        "name": "pants 1",
+                        "picture": null,
+                        "etsyVariationId": null
+                    },
+                    {
+                        "name": "shorts 1",
+                        "picture": null,
+                        "etsyVariationId": null
+                    }
+                ]
+            },
+            {
+                "name": "bundles",
+                "picture": null,
+                "path": "/bundles",
+                "etsyListingId": null,
+                "etsyListingName": "neutral-bundles",
+                "items": [
+                    {
+                        "name": "bundle 1",
+                        "picture": null,
+                        "etsyVariationId": null
+                    }
+                ]
+            },
+            {
+                "name": "onesies/bodysuites",
+                "picture": null,
+                "path": "/onesies-bodysuites",
+                "etsyListingId": null,
+                "etsyListingName": "neutral-onesies/bodysuites",
+                "items": [
+                    {
+                        "name": "onesie 1",
+                        "picture": null,
+                        "etsyVariationId": null
+                    },
+                    {
+                        "name": "bodysuite 1",
+                        "picture": null,
+                        "etsyVariationId": null
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "accessories",
+        "displayName": "Accessories",
+        "products": [
+            {
+                "name": "Dummy chains",
+                "picture": null,
+                "path": "/dummy-chain",
+                "etsyListingId": null,
+                "etsyListingName": "dummy-chains",
+                "items": [
+                    {
+                        "name": "dummy chain 1",
+                        "picture": null,
+                        "etsyVariationId": null
+                    }
+                ]
+            },
+            {
+                "name": "Blankets",
+                "picture": null,
+                "path": "/blankets",
+                "etsyListingId": null,
+                "etsyListingName": "blankets",
+                "items": [
+                    {
+                        "name": "blanket 1",
+                        "picture": null,
+                        "etsyVariationId": null
+                    }
+                ]
+            },
+            {
+                "name": "Toys",
+                "picture": null,
+                "path": "/toys",
+                "etsyListingId": null,
+                "etsyListingName": "toys",
+                "items": [
+                    {
+                        "name": "toy 1",
+                        "picture": null,
+                        "etsyVariationId": null
+                    }
+                ]
+            },
+            {
+                "name": "Mommy & Me sets",
+                "picture": null,
+                "path": "/mommy-&-me-sets",
+                "etsyListingId": null,
+                "etsyListingName": "mommy-&-me-sets",
+                "items": [
+                    {
+                        "name": "Mommy&Me Set 1",
+                        "picture": null,
+                        "etsyVariationId": null
+                    }
+                ]
+            },
+            {
+                "name": "Daddy & Me sets",
+                "picture": null,
+                "path": "/daddy-&-me-sets",
+                "etsyListingId": null,
+                "etsyListingName": "daddy-&-me-sets",
+                "items": [
+                    {
+                        "name": "Daddy&Me Set 1",
+                        "picture": null,
+                        "etsyVariationId": null
+                    }
+                ]
+            },
+            {
+                "name": "Accessories Bundles",
+                "picture": null,
+                "path": "/accessories-bundles",
+                "etsyListingId": null,
+                "etsyListingName": "accessories-bundles",
+                "items": [
+                    {
+                        "name": "bundle 1",
+                        "picture": null,
+                        "etsyVariationId": null
+                    }
+                ]
+            },
+            {
+                "name": "Full Bundle",
+                "picture": null,
+                "path": "/full-bundle",
+                "etsyListingId": null,
+                "etsyListingName": "full-bundle",
+                "items": [
+                    {
+                        "name": "Full Bundle 1",
+                        "picture": null,
+                        "etsyVariationId": null
+                    }
+                ]
+            }
+        ]
+    }   
+]

@@ -1,0 +1,180 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&display=swap');
+
+body {
+  background-image:url('./picture/light mushroom background.png') !important;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  height: 100% !important;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.myheader {
+  font-family: 'Amatic SC' !important ;
+  font-size: 1.8em !important;
+  font-weight: bolder;
+}
+
+.headerimage {
+  box-shadow: 0px 2px 0px 2px rgba(88, 88, 88, 0.123);
+  margin-bottom: -125px;
+  margin-top: -45px;
+}
+
+.freyjaheim {
+  margin-top: 105px !important;
+  font-family:'Amatic SC' !important;
+  font-size: 5.6em !important;
+  font-weight: 700 !important;
+}
+
+.craft {
+  font-family: 'Amatic SC' !important;
+  font-size: 2.5em !important;
+  font-weight: 700 !important;
+}
+
+.mymenu {
+  font-family: 'Amatic SC' !important;
+  font-size: 1.4em !important;
+  font-weight: 700;
+  background-color: transparent !important;
+}
+
+.mymenustyle {
+  margin-top: 15px !important;
+  border-top: solid 4px rgb(219, 181, 160) !important;
+  border-bottom: solid 4px rgb(219, 181, 160) !important;
+  background: transparent !important;
+  cursor: pointer !important;
+  font-family: 'Amatic SC' !important;
+  font-size: 1.6em !important;
+  font-weight: bolder !important;
+  color:rgb(141, 115, 101) !important;
+  text-align: center !important;
+  padding: 0 1.5em 0 1.5em !important;
+  border-radius: 0 !important;
+}
+
+.mymenustyle:hover {
+  background-color:transparent !important; 
+  border-top: solid 4px rgb(110, 73, 53) !important;
+  border-bottom: solid 4px rgb(110, 73, 53) !important;
+  color: rgb(110, 73, 53) !important;
+}
+
+.mymenustyle.active {
+  background-color: transparent !important;
+  border-top: solid 4px rgb(88,88,88) !important;
+  border-bottom: solid 4px rgb(88,88,88) !important;
+  color:rgb(88, 88, 88) !important;
+}
+
+.intro {
+  font-family: 'Amatic SC' !important;
+  font-size: 2.5em !important;
+  font-weight: bolder !important;
+}
+
+.introtext {
+  font-family: 'Amatic SC' !important;
+  font-size: 2.5em !important;
+  font-weight: bolder !important;
+}
+
+.introaboutme {
+  font-family: 'Amatic SC' !important;
+  font-size: 1.9em !important;
+  font-weight: bolder !important;
+}
+
+.safem {
+  margin: 0 4.5rem .5rem !important;
+}
+
+.productm {
+  margin: 0 3.5rem 1rem !important;
+}
+
+.productp {
+  color: rgb(88, 88, 88) !important;
+  font-family: 'Amatic SC' !important;
+  font-size: 4em !important;
+  font-weight: 700 !important;
+}
+
+.page-container {
+  position: relative;
+  min-height: 100vh;
+}
+
+.content-wrap {
+  padding-bottom: 8rem;
+}
+
+.sociallinks {
+  /*margin-top: 1rem !important;*/
+  padding: 1rem !important;
+  background-color:rgb(247, 242, 225) !important;
+  bottom: 0 !important;
+  width: 100% !important;
+  position: absolute !important;
+  height: 6.8rem !important;
+}
+
+.listing {
+  font-family: 'Amatic SC' !important;
+  font-size: 1.5em !important;
+  font-weight: bolder !important;
+}
+
+.nameoverlay {
+  margin-right: 50px !important;
+}
+
+.nameoverlay h3, .nameoverlay a {
+  color:rgb(219, 181, 160) !important;
+  font-family: 'Amatic SC' !important;
+  font-weight: bolder !important;
+}
+
+.nameoverlay .dimmer {
+  background:rgba(0, 0, 0, 0.45) !important;
+}
+
+.preemiemenu {
+  margin-top: 15px !important;
+  margin-bottom: 30px !important;
+  border-top: solid 4px rgb(219, 181, 160) !important;
+  border-bottom: solid 4px rgb(219, 181, 160) !important;
+  background: transparent !important;
+  cursor: pointer !important;
+  font-family: 'Amatic SC' !important;
+  font-size: 1.3em !important;
+  font-weight: bolder !important;
+  color:rgb(141, 115, 101) !important;
+  text-align: center !important;
+  padding: 0 1.5em 0 1.5em !important;
+  border-radius: 0 !important;
+}
+
+.preemiemenu:hover {
+  background-color:transparent !important; 
+  border-top: solid 4px rgb(110, 73, 53) !important;
+  border-bottom: solid 4px rgb(110, 73, 53) !important;
+  color: rgb(110, 73, 53) !important;
+}
+
+.preemiemenu.active {
+  background-color: transparent !important;
+  border-top: solid 4px rgb(88,88,88) !important;
+  border-bottom: solid 4px rgb(88,88,88) !important;
+  color:rgb(88, 88, 88) !important;
+}

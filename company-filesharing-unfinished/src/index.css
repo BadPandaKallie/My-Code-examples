@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.background {
+  background-color: rgb(226, 226, 226) !important;
+  width: 500vh !important;
+  height: 500vh !important;
+  position: relative !important;
+  
+}
+
+.menubutton {
+  background-color: transparent !important;
+  color:rgb(134, 134, 134) !important;
+  border: 0px !important;
+  z-index: 3000;
+}
+
+.menubutton:hover {
+  background-color: transparent !important;
+  color:rgb(134, 134, 134)!important;
+  border: 0px !important;
+}
+
+.menubutton:focus {
+  background-color: transparent !important;
+  color:rgb(134, 134, 134) !important;
+  border: 0px !important;  
+}
+
+.menubutton.active {
+  background-color: transparent !important;
+  color:rgb(134, 134, 134) !important;
+  border: 0px !important;
+}
+
+.dividerOR {
+  font-family:'Anton' !important;
+  font-size: 1.5em !important;
+}
+
+.page-container {
+  position: relative;
+  min-height: 100vh;
+}
+
+.content-wrap {
+  padding-bottom: 8rem;
+}
